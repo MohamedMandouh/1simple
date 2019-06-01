@@ -1,6 +1,5 @@
 Task :
-Add an additional tool (and all its underlying functionality) to make an Oval tool that plays a different sound!  You can read about how to make different midi sounds
-
+Add an additional tool (and all its underlying functionality) to make an Oval tool that plays a different sound! 
 Steps : 
 1- add a button to the tool bar, by examining how it's currently done for all the other buttons, and then duplicating that functionality.
 2-add a tool class that implements the new button by looking at how the ShapeTool class works
