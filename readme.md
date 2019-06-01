@@ -1,1 +1,2 @@
-# simple drawing player project
+![UML](UML.png)
+
